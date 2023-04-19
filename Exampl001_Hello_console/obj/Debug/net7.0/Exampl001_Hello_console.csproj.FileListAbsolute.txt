@@ -1,0 +1,15 @@
+Q:\WORK\GB\лекции C#\Exampls\Exampl001_Hello_console\bin\Debug\net7.0\Exampl001_Hello_console.exe
+Q:\WORK\GB\лекции C#\Exampls\Exampl001_Hello_console\bin\Debug\net7.0\Exampl001_Hello_console.deps.json
+Q:\WORK\GB\лекции C#\Exampls\Exampl001_Hello_console\bin\Debug\net7.0\Exampl001_Hello_console.runtimeconfig.json
+Q:\WORK\GB\лекции C#\Exampls\Exampl001_Hello_console\bin\Debug\net7.0\Exampl001_Hello_console.dll
+Q:\WORK\GB\лекции C#\Exampls\Exampl001_Hello_console\bin\Debug\net7.0\Exampl001_Hello_console.pdb
+Q:\WORK\GB\лекции C#\Exampls\Exampl001_Hello_console\obj\Debug\net7.0\Exampl001_Hello_console.csproj.AssemblyReference.cache
+Q:\WORK\GB\лекции C#\Exampls\Exampl001_Hello_console\obj\Debug\net7.0\Exampl001_Hello_console.GeneratedMSBuildEditorConfig.editorconfig
+Q:\WORK\GB\лекции C#\Exampls\Exampl001_Hello_console\obj\Debug\net7.0\Exampl001_Hello_console.AssemblyInfoInputs.cache
+Q:\WORK\GB\лекции C#\Exampls\Exampl001_Hello_console\obj\Debug\net7.0\Exampl001_Hello_console.AssemblyInfo.cs
+Q:\WORK\GB\лекции C#\Exampls\Exampl001_Hello_console\obj\Debug\net7.0\Exampl001_Hello_console.csproj.CoreCompileInputs.cache
+Q:\WORK\GB\лекции C#\Exampls\Exampl001_Hello_console\obj\Debug\net7.0\Exampl001_Hello_console.dll
+Q:\WORK\GB\лекции C#\Exampls\Exampl001_Hello_console\obj\Debug\net7.0\refint\Exampl001_Hello_console.dll
+Q:\WORK\GB\лекции C#\Exampls\Exampl001_Hello_console\obj\Debug\net7.0\Exampl001_Hello_console.pdb
+Q:\WORK\GB\лекции C#\Exampls\Exampl001_Hello_console\obj\Debug\net7.0\Exampl001_Hello_console.genruntimeconfig.cache
+Q:\WORK\GB\лекции C#\Exampls\Exampl001_Hello_console\obj\Debug\net7.0\ref\Exampl001_Hello_console.dll
